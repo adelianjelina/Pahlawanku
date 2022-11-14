@@ -24,7 +24,7 @@ public class DataPahlawan {
             ModelPahlawan model = new ModelPahlawan();
             model.setNama(varData[0]);
             model.setTentang(varData[1]);
-            model.setFoto(varData)[2]);
+            model.setFoto(varData[2]);
 
             dataPahlawan.add(model);
         }
